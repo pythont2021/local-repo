@@ -1,5 +1,5 @@
  
 keyname - local repo 
-apikey - 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
+apikey - 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
 
 sdfhlskhndkflshdalhflasfhsadfsdfsfhhsf
