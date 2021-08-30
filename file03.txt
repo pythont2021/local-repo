@@ -1,5 +1,4 @@
-remote repository status ...
-
+remote repository status.
 command 			status
 
 add			-		not initialised

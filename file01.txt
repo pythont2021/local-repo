@@ -4,3 +4,11 @@ git commit not done.
 
 git commit has been initialised .
 
+git checkout has been initialised .
+
+git config name initialised.
+
+git cofig email initialised.
+
+ 
+
