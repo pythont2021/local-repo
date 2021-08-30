@@ -1,0 +1,7 @@
+git local repository status.
+
+commend 		status 
+add 		-    not initialised
+commit 		-    not initialised
+
+

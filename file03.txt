@@ -1,0 +1,8 @@
+remote repository status ...
+
+command 			status
+
+add			-		not initialised
+commit		- 	 	not initialised
+push 		- 		not initialised
+
